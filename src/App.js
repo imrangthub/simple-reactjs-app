@@ -5,7 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-      Welcome to ReactJs App
+      <h1>Welcome to ReactJs App</h1>
+      imranmadbar@gmail.com
+
       </header>
     </div>
   );
