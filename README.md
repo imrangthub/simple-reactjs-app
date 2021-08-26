@@ -68,3 +68,28 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Required command 
+
+
+=>Install Node.js and NPM.
+
+=>npm install -g create-react-app
+
+=>npx create-react-app simple-reactjs-app
+
+=>npm start
+
+=>npm install --save jquery popper.js
+
+=>npm install --save bootstrap
+
+=>npm install --save style-loader css-loader
+
+=>npm add axios
+
+=>npm add react-router-dom
+
+=>npm add formik
+
